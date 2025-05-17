@@ -21,9 +21,9 @@ I am learning with the help of the **CodeWithHarry YouTube channel** and other r
 
 ## Additional Resources
 
-- [Download the Handbook]([link-to-handbook](https://drive.google.com/file/d/1NM3-eueTdsXNnR-3UrP3INWAR3L9Q9tT/view?usp=drive_link))  
+- [Download the Handbook](https://drive.google.com/file/d/1NM3-eueTdsXNnR-3UrP3INWAR3L9Q9tT/view?usp=drive_link)  
 - [Download the Handwritten Notes](https://drive.google.com/file/d/1gKNmrQamycfEohyvE60o0RuS3nyVLoqG/view?usp=sharing)  
-- [Download the Ultimate Python Cheatsheet]([link-to-cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet))  
+- [Download the Ultimate Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 
 *Note: These resources are from the CodeWithHarry course that I am following and using to support my learning.*
 
