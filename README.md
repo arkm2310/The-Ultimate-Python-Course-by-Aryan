@@ -1,4 +1,4 @@
-# The-Ultimate-Python-Course-by-AryanKumarMohanty
+# The-Ultimate-Python-Course-by-Aryan
 
 
 Welcome to my coding journey! I am learning programming step-by-step and sharing my progress here. This repository contains all chapters, projects, and mega projects from the course I’m following.
