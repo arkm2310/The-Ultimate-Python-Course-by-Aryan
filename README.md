@@ -22,7 +22,7 @@ I am learning with the help of the **CodeWithHarry YouTube channel** and other r
 ## Follow Along
 
 Feel free to explore the code, give feedback, or even contribute! You can also follow my progress on my YouTube channel:  
-[BuildWithAryan](https://www.youtube.com/channel/yourchannelid) 
+[BuildWithAryan](https://www.youtube.com/channel/UC5hhOgqKZWH9jf4AdPnnJdA) 
 ---
 
 Wishing you success and growth in your programming endeavors.   
