@@ -5,7 +5,7 @@ Welcome to my coding journey! I am learning programming step-by-step and sharing
 
 ## Course Plan
 
-- I will complete **one chapter every day** instead of spending just one hour daily.
+- I will complete one chapter each day, progressing steadily through the course.
 - There are **9 chapters**, **2 projects**, and **2 mega projects** in total.
 - This structured approach will help me learn consistently and build real-world skills.
 
